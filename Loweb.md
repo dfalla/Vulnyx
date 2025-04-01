@@ -1,4 +1,4 @@
-# Máquina BadPlugin
+# Máquina Loweb
 
 ### Reconocimiento de la Ip de la máquina víctima
 
