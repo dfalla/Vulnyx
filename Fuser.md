@@ -12,7 +12,7 @@ sudo nmap -sS --min-rate 6000 -p- --open -vvv -Pn 192.168.42.146
 
 ### Servicios y versiones
 
-sudo nmap -sVC --min-rate 6000 -p22,80 vvv -Pn 192.168.42.146
+sudo nmap -sVC --min-rate 6000 -p22,80,631 vvv -Pn 192.168.42.146
 
 ![alt text](image-2.png)
 
