@@ -13,7 +13,7 @@ sudo nmap -sS --min-rate 6000 -p- --open -vvv -Pn 192.168.42.155
 
 ### Servicios y versiones 
 
-sudo nmap -sV --script vuln -p22,80 --min-rate 6000 -vvv 192.168.42.155
+sudo nmap -sVC --min-rate 6000 -p22,80 -vvv -Pn 192.168.42.155
 
 ![alt text](image-2.png)
 
