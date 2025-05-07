@@ -1,4 +1,4 @@
-# Máquina shock
+# Máquina APex
 
 ### Reconocimiento de la Ip de la máquina víctima
 
