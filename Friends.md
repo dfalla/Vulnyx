@@ -12,7 +12,7 @@ sudo nmap -sS --disable-arp-ping --min-rate 6000 -p- --open -vvv -Pn 192.168.5.1
 
 ### Servicios y versiones 
 
-sudo nmap -sVC --min-rate 6000 -p21,80,3306 -vvv -Pn 192.168.5.146
+sudo nmap -sVC --min-rate 6000 -p22,80,3306 -vvv -Pn 192.168.5.146
 
 ![alt text](image-2.png)
 
