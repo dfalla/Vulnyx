@@ -56,10 +56,6 @@ luego visualicé que en /var/www/html tengo permisos de escritura e hice:
 
 ![alt text](image-8.png)
 
-en la probé web
-
-![alt text](image-9.png)
-
 luego ejecuté en la url:
 
 ![alt text](image-10.png)
