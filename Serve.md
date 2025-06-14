@@ -94,10 +94,9 @@ me conecté con el usuario teo por ssh
 
 ![alt text](image-19.png)
 
+sudo /usr/local/bin/bro curl
+
+!/bin/bash
 
 
-### user.txt
 
-
-
-### root.txt
