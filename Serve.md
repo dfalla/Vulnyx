@@ -18,7 +18,7 @@ sudo nmap -sVC --min-rate 6000 -p22,80 -vvv -Pn 192.168.5.160
 
 ### Fuzzing web
 
-feroxbuster --url http://192.168.5.16/ -w /usr/share/seclists/Discovery/Web-Content/big.txt
+feroxbuster --url http://192.168.5.162/ -w /usr/share/seclists/Discovery/Web-Content/big.txt
 
 ![alt text](image-3.png)
 
