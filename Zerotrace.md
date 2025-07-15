@@ -1,4 +1,4 @@
-# Máquina LostTape
+# Máquina Zerotrace
 ### Reconocimiento de la Ip de la máquina víctima
 
 ![alt text](image.png)
